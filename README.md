@@ -64,5 +64,5 @@ trading_robot = PyRobot(
 )
 ```
 
-For more detailed examples, go to the [`run_robot.py`]() file to see an example of how to use the library along with all the different objects inside.
+For more detailed examples, go to the [`run_robot.py`](https://github.com/mh2rashi/Pyrobot/blob/main/run_robot.py) file to see an example of how to use the library along with all the different objects inside.
 
