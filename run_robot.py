@@ -1,5 +1,5 @@
 import pandas as pd
-from robot import PyRobot
+from pyrobot.robot import PyRobot
 from pprint import pprint as pp
 
 # Data Frame Settings
